@@ -2,4 +2,4 @@
 
 ## Netlify
 
-https://app.netlify.com/sites/vue3-movie-app/overview
+https://vue3-movie-app.netlify.app/#/
